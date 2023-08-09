@@ -1,4 +1,4 @@
-# ECE276B SP22 PR2
+# Montion Planning (ECE276B SP22 PR2)
 
 ## Overview
 In this assignment, you are required to implement a search-based motion planning algorithm that intercepts a moving target. You should run **main.py** to test your algorithm.  
